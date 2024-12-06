@@ -1,0 +1,355 @@
+{
+    "products": [
+      {
+        "product_id": 1,
+        "name": "Apple iPhone 14",
+        "description": "Latest iPhone model with advanced features including a 48MP camera, 5G support, and A15 Bionic chip.",
+        "price": 799.99,
+        "stock_availability": 50
+      },
+      {
+        "product_id": 2,
+        "name": "Samsung Galaxy S22",
+        "description": "Samsung's flagship smartphone with a 6.1-inch Dynamic AMOLED display, Snapdragon 8 Gen 1 processor, and 50MP camera.",
+        "price": 749.99,
+        "stock_availability": 30
+      },
+      {
+        "product_id": 3,
+        "name": "Sony WH-1000XM5",
+        "description": "Premium noise-canceling headphones with exceptional sound quality, long battery life, and comfortable design.",
+        "price": 349.99,
+        "stock_availability": 100
+      },
+      {
+        "product_id": 4,
+        "name": "Dell XPS 13 Laptop",
+        "description": "Compact and powerful laptop featuring Intel's 12th Gen i7 processor, 16GB RAM, and a 512GB SSD.",
+        "price": 1299.99,
+        "stock_availability": 20
+      },
+      {
+        "product_id": 5,
+        "name": "Fitbit Charge 5",
+        "description": "Advanced fitness tracker with built-in GPS, heart rate monitoring, sleep tracking, and stress management tools.",
+        "price": 179.99,
+        "stock_availability": 200
+      },
+      {
+        "product_id": 6,
+        "name": "Apple MacBook Pro 14",
+        "description": "High-performance laptop with Apple M1 Pro chip, 16GB RAM, and 512GB SSD. Ideal for professionals and creatives.",
+        "price": 1999.99,
+        "stock_availability": 10
+      },
+      {
+        "product_id": 7,
+        "name": "Microsoft Surface Pro 8",
+        "description": "2-in-1 tablet with a detachable keyboard, 11th Gen Intel Core i5, 8GB RAM, and a 256GB SSD.",
+        "price": 1199.99,
+        "stock_availability": 25
+      },
+      {
+        "product_id": 8,
+        "name": "Bose QuietComfort 35 II",
+        "description": "Over-ear Bluetooth headphones with noise-canceling technology, 20 hours of battery life, and a comfortable fit.",
+        "price": 299.99,
+        "stock_availability": 150
+      },
+      {
+        "product_id": 9,
+        "name": "HP Spectre x360",
+        "description": "Convertible laptop with Intel Core i7, 16GB RAM, and 512GB SSD. Features a 13.3-inch 4K AMOLED touchscreen.",
+        "price": 1599.99,
+        "stock_availability": 15
+      },
+      {
+        "product_id": 10,
+        "name": "Canon EOS R5 Camera",
+        "description": "Mirrorless camera with a 45MP sensor, 8K video recording, and advanced autofocus.",
+        "price": 3899.99,
+        "stock_availability": 5
+      },
+      {
+        "product_id": 11,
+        "name": "GoPro HERO10 Black",
+        "description": "Action camera with 5.3K video recording, HyperSmooth 4.0 stabilization, and waterproof up to 33ft.",
+        "price": 499.99,
+        "stock_availability": 70
+      },
+      {
+        "product_id": 12,
+        "name": "Logitech MX Master 3",
+        "description": "Ergonomic wireless mouse with customizable buttons and long battery life.",
+        "price": 99.99,
+        "stock_availability": 200
+      },
+      {
+        "product_id": 13,
+        "name": "Nintendo Switch OLED",
+        "description": "Hybrid gaming console with a 7-inch OLED screen, 64GB storage, and improved audio.",
+        "price": 349.99,
+        "stock_availability": 40
+      },
+      {
+        "product_id": 14,
+        "name": "Sony PlayStation 5",
+        "description": "Next-gen gaming console with ultra-fast SSD, 4K gaming, and backward compatibility with PS4 games.",
+        "price": 499.99,
+        "stock_availability": 60
+      },
+      {
+        "product_id": 15,
+        "name": "Xbox Series X",
+        "description": "Powerful gaming console with 4K resolution, fast load times, and access to Xbox Game Pass.",
+        "price": 499.99,
+        "stock_availability": 30
+      },
+      {
+        "product_id": 16,
+        "name": "Apple AirPods Pro 2nd Gen",
+        "description": "Wireless earbuds with Active Noise Cancellation, Transparency mode, and improved sound quality.",
+        "price": 249.99,
+        "stock_availability": 120
+      },
+      {
+        "product_id": 17,
+        "name": "Apple Watch Series 8",
+        "description": "Smartwatch with ECG, blood oxygen monitoring, and crash detection, along with a 18-hour battery life.",
+        "price": 399.99,
+        "stock_availability": 200
+      },
+      {
+        "product_id": 18,
+        "name": "Samsung Galaxy Watch 5",
+        "description": "Smartwatch with health tracking features, including heart rate and sleep monitoring, and a 40-hour battery life.",
+        "price": 229.99,
+        "stock_availability": 75
+      },
+      {
+        "product_id": 19,
+        "name": "Dell UltraSharp 32 Monitor",
+        "description": "4K UHD monitor with USB-C connectivity, ideal for professionals working with design and media.",
+        "price": 799.99,
+        "stock_availability": 40
+      },
+      {
+        "product_id": 20,
+        "name": "Samsung 55 QLED TV",
+        "description": "Ultra-high-definition 4K smart TV with Quantum Dot technology for superior color and clarity.",
+        "price": 899.99,
+        "stock_availability": 15
+      },
+      {
+        "product_id": 21,
+        "name": "Sony 65 4K UHD TV",
+        "description": "Smart TV with 4K resolution, Dolby Vision, and built-in Alexa voice control.",
+        "price": 1199.99,
+        "stock_availability": 10
+      },
+      {
+        "product_id": 22,
+        "name": "Amazon Echo Show 8",
+        "description": "Smart display with Alexa, 8-inch screen, video calling, and smart home controls.",
+        "price": 129.99,
+        "stock_availability": 200
+      },
+      {
+        "product_id": 23,
+        "name": "Sonos One SL",
+        "description": "Smart speaker with great sound quality and Amazon Alexa compatibility.",
+        "price": 199.99,
+        "stock_availability": 80
+      },
+      {
+        "product_id": 24,
+        "name": "Razer DeathAdder V2",
+        "description": "High-precision gaming mouse with 20,000 DPI, ergonomic design, and customizable RGB lighting.",
+        "price": 69.99,
+        "stock_availability": 100
+      },
+      {
+        "product_id": 25,
+        "name": "SteelSeries Arctis 7 Wireless Headset",
+        "description": "Wireless gaming headset with 24-hour battery life, Dolby surround sound, and a comfortable design.",
+        "price": 149.99,
+        "stock_availability": 50
+      },
+      {
+        "product_id": 26,
+        "name": "Logitech G Pro X Keyboard",
+        "description": "Mechanical gaming keyboard with Blue or Brown switches, RGB lighting, and ultra-fast response time.",
+        "price": 129.99,
+        "stock_availability": 30
+      },
+      {
+        "product_id": 27,
+        "name": "Corsair Vengeance LPX 16GB RAM",
+        "description": "High-performance 16GB DDR4 RAM, optimized for gaming and multitasking.",
+        "price": 59.99,
+        "stock_availability": 150
+      },
+      {
+        "product_id": 28,
+        "name": "Western Digital 1TB SSD",
+        "description": "Fast, reliable SSD with 1TB capacity, ideal for gaming and professional workflows.",
+        "price": 99.99,
+        "stock_availability": 120
+      },
+      {
+        "product_id": 29,
+        "name": "TP-Link Archer AX50 Router",
+        "description": "Wi-Fi 6 router with high-speed internet and 4x high-performance antennas.",
+        "price": 149.99,
+        "stock_availability": 60
+      },
+      {
+        "product_id": 30,
+        "name": "Netgear Nighthawk X6S Router",
+        "description": "Tri-band router with AC4000 speeds and Beamforming+ technology for a superior Wi-Fi experience.",
+        "price": 229.99,
+        "stock_availability": 40
+      },
+      {
+        "product_id": 31,
+        "name": "Bose SoundLink Revolve+",
+        "description": "Portable Bluetooth speaker with 360-degree sound and up to 16 hours of battery life.",
+        "price": 329.99,
+        "stock_availability": 75
+      },
+      {
+        "product_id": 32,
+        "name": "Keurig K-Elite Coffee Maker",
+        "description": "Single-serve coffee maker with iced coffee functionality and strong brew options.",
+        "price": 129.99,
+        "stock_availability": 200
+      },
+      {
+        "product_id": 33,
+        "name": "Dyson V11 Torque Drive Vacuum",
+        "description": "Cordless vacuum with strong suction, advanced filtration, and up to 60 minutes of runtime.",
+        "price": 599.99,
+        "stock_availability": 20
+      },
+      {
+        "product_id": 34,
+        "name": "Instant Pot Duo Plus",
+        "description": "7-in-1 multi-function pressure cooker, slow cooker, rice cooker, and more.",
+        "price": 119.99,
+        "stock_availability": 100
+      },
+      {
+        "product_id": 35,
+        "name": "Ninja Foodi Grill",
+        "description": "Indoor grill with air crisping, baking, and roasting features for versatile cooking.",
+        "price": 229.99,
+        "stock_availability": 80
+      },
+      {
+        "product_id": 36,
+        "name": "Cuisinart 14-Cup Food Processor",
+        "description": "Versatile food processor with a 14-cup capacity, ideal for slicing, chopping, and pureeing.",
+        "price": 199.99,
+        "stock_availability": 40
+      },
+      {
+        "product_id": 37,
+        "name": "Oster 2-Slice Toaster",
+        "description": "Stainless steel 2-slice toaster with adjustable browning control and extra-wide slots.",
+        "price": 29.99,
+        "stock_availability": 150
+      },
+      {
+        "product_id": 38,
+        "name": "Vitamix 5200 Blender",
+        "description": "Professional-grade blender with a 64oz container, variable speed control, and high power motor.",
+        "price": 449.99,
+        "stock_availability": 10
+      },
+      {
+        "product_id": 39,
+        "name": "Breville Barista Express Espresso Machine",
+        "description": "Espresso machine with integrated conical burr grinder and steam wand for perfect coffee.",
+        "price": 699.99,
+        "stock_availability": 15
+      },
+      {
+        "product_id": 40,
+        "name": "iRobot Roomba 675",
+        "description": "Wi-Fi connected robot vacuum with smart navigation and multiple cleaning modes.",
+        "price": 279.99,
+        "stock_availability": 200
+      },
+      {
+        "product_id": 41,
+        "name": "Sony Alpha a7 III Camera",
+        "description": "Full-frame mirrorless camera with 24.2 MP, 4K video recording, and real-time autofocus.",
+        "price": 1999.99,
+        "stock_availability": 5
+      },
+      {
+        "product_id": 42,
+        "name": "Fujifilm X-T4 Camera",
+        "description": "Mirrorless camera with 26.1MP, 4K video, and in-body image stabilization.",
+        "price": 1699.99,
+        "stock_availability": 8
+      },
+      {
+        "product_id": 43,
+        "name": "Panasonic Lumix GH5 Camera",
+        "description": "Mirrorless camera with 20.3MP, 4K video recording, and advanced video features.",
+        "price": 1299.99,
+        "stock_availability": 10
+      },
+      {
+        "product_id": 44,
+        "name": "Canon EOS 90D Camera",
+        "description": "DSLR camera with 32.5MP, 4K video recording, and Dual Pixel autofocus.",
+        "price": 1199.99,
+        "stock_availability": 12
+      },
+      {
+        "product_id": 45,
+        "name": "Bose SoundLink Flex",
+        "description": "Compact Bluetooth speaker with excellent sound quality and water-resistant design.",
+        "price": 129.99,
+        "stock_availability": 150
+      },
+      {
+        "product_id": 46,
+        "name": "Marshall Stanmore II Bluetooth Speaker",
+        "description": "Iconic Marshall speaker with deep bass and clear treble. Bluetooth compatible.",
+        "price": 349.99,
+        "stock_availability": 60
+      },
+      {
+        "product_id": 47,
+        "name": "Google Nest Learning Thermostat",
+        "description": "Smart thermostat with Wi-Fi connectivity, energy-saving features, and intuitive controls.",
+        "price": 249.99,
+        "stock_availability": 100
+      },
+      {
+        "product_id": 48,
+        "name": "Nest Cam Outdoor Security Camera",
+        "description": "Weatherproof outdoor camera with night vision, motion alerts, and HD streaming.",
+        "price": 199.99,
+        "stock_availability": 80
+      },
+      {
+        "product_id": 49,
+        "name": "Ring Video Doorbell Pro 2",
+        "description": "Smart doorbell with 1080p video, two-way audio, and motion detection.",
+        "price": 249.99,
+        "stock_availability": 120
+      },
+      {
+        "product_id": 50,
+        "name": "Philips Sonicare ProtectiveClean 6100",
+        "description": "Electric toothbrush with pressure sensor, 3 modes, and a long battery life.",
+        "price": 89.99,
+        "stock_availability": 200
+      }
+    ]
+  }
+  
